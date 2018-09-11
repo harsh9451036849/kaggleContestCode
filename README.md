@@ -1,0 +1,3 @@
+# kaggleContestCode
+first kaggle competation code.
+this has 3 csv files to process data...
